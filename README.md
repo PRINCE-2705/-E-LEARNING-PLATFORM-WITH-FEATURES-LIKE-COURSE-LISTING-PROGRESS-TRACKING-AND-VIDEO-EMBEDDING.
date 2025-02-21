@@ -16,6 +16,6 @@ NEELA      : NEELA SANTOSH
 FIRST PAGE OF PORTAL LOOK LIKE AND VISUALISE THE THINGS HOW SHOULD 
 LOOK LIKE THE ICONS AND MANY MORE THINGS
 
-##OUTPUT
-
+##OUTPUT  :
+             ![Image](https://github.com/user-attachments/assets/b939da9e-aadc-4d79-b553-0c639f050d57)
        
